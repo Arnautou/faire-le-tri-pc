@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+.venv/
+
+# Build / distribution
+build/
+dist/
+*.exe
+*.spec
+*.msi
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temp / test output
+exif_test_out/
+*.tmp
+
+# Données temporaires volumineuses (à exclur du versioning)
+doublons_a_supprimer.txt
